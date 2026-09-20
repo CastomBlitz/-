@@ -1,0 +1,272 @@
+{
+ "cases": {
+  "common": {
+   "name": "Обычный кейс",
+   "price": 500,
+   "emoji": "📦"
+  },
+  "rare": {
+   "name": "Редкий кейс",
+   "price": 3000,
+   "emoji": "🎁"
+  },
+  "epic": {
+   "name": "Эпический кейс",
+   "price": 12000,
+   "emoji": "💜"
+  },
+  "legendary": {
+   "name": "Легендарный кейс",
+   "price": 46000,
+   "emoji": "🌟"
+  }
+ },
+ "skins": [
+  {
+   "id": 1,
+   "name": "P250 | Sand Dune",
+   "price": 15,
+   "tier": "common"
+  },
+  {
+   "id": 2,
+   "name": "Glock-18 | Sand Dune",
+   "price": 20,
+   "tier": "common"
+  },
+  {
+   "id": 3,
+   "name": "Nova | Predator",
+   "price": 40,
+   "tier": "common"
+  },
+  {
+   "id": 4,
+   "name": "Dual Berettas | Colony",
+   "price": 50,
+   "tier": "common"
+  },
+  {
+   "id": 5,
+   "name": "MP9 | Storm",
+   "price": 60,
+   "tier": "common"
+  },
+  {
+   "id": 6,
+   "name": "UMP-45 | Carbon Fiber",
+   "price": 70,
+   "tier": "common"
+  },
+  {
+   "id": 7,
+   "name": "MAC-10 | Silver",
+   "price": 90,
+   "tier": "common"
+  },
+  {
+   "id": 8,
+   "name": "P90 | Module",
+   "price": 100,
+   "tier": "common"
+  },
+  {
+   "id": 9,
+   "name": "Five-SeveN | Forest Night",
+   "price": 120,
+   "tier": "common"
+  },
+  {
+   "id": 10,
+   "name": "SG 553 | Anodized Navy",
+   "price": 200,
+   "tier": "common"
+  },
+  {
+   "id": 11,
+   "name": "AK-47 | Safari Mesh",
+   "price": 350,
+   "tier": "common"
+  },
+  {
+   "id": 12,
+   "name": "M4A1-S | Boreale",
+   "price": 700,
+   "tier": "common"
+  },
+  {
+   "id": 13,
+   "name": "USP-S | Cortex",
+   "price": 600,
+   "tier": "rare"
+  },
+  {
+   "id": 14,
+   "name": "Glock-18 | Water Elemental",
+   "price": 900,
+   "tier": "rare"
+  },
+  {
+   "id": 15,
+   "name": "Desert Eagle | Oxide Blaze",
+   "price": 800,
+   "tier": "rare"
+  },
+  {
+   "id": 16,
+   "name": "AK-47 | Elite Build",
+   "price": 1100,
+   "tier": "rare"
+  },
+  {
+   "id": 17,
+   "name": "M4A4 | Desert-Strike",
+   "price": 1400,
+   "tier": "rare"
+  },
+  {
+   "id": 18,
+   "name": "AWP | Atheris",
+   "price": 1700,
+   "tier": "rare"
+  },
+  {
+   "id": 19,
+   "name": "P90 | Asiimov",
+   "price": 2500,
+   "tier": "rare"
+  },
+  {
+   "id": 20,
+   "name": "M4A4 | Neo-Noir",
+   "price": 3000,
+   "tier": "rare"
+  },
+  {
+   "id": 21,
+   "name": "AK-47 | Redline",
+   "price": 3200,
+   "tier": "rare"
+  },
+  {
+   "id": 22,
+   "name": "USP-S | Kill Confirmed",
+   "price": 4000,
+   "tier": "rare"
+  },
+  {
+   "id": 23,
+   "name": "AK-47 | Neon Revolution",
+   "price": 4500,
+   "tier": "epic"
+  },
+  {
+   "id": 24,
+   "name": "M4A1-S | Hyper Beast",
+   "price": 5500,
+   "tier": "epic"
+  },
+  {
+   "id": 25,
+   "name": "AWP | Neo-Noir",
+   "price": 6000,
+   "tier": "epic"
+  },
+  {
+   "id": 26,
+   "name": "AWP | Hyper Beast",
+   "price": 6500,
+   "tier": "epic"
+  },
+  {
+   "id": 27,
+   "name": "M4A4 | The Emperor",
+   "price": 7000,
+   "tier": "epic"
+  },
+  {
+   "id": 28,
+   "name": "AWP | Asiimov",
+   "price": 7500,
+   "tier": "epic"
+  },
+  {
+   "id": 29,
+   "name": "AK-47 | Vulcan",
+   "price": 8000,
+   "tier": "epic"
+  },
+  {
+   "id": 30,
+   "name": "Desert Eagle | Printstream",
+   "price": 10000,
+   "tier": "epic"
+  },
+  {
+   "id": 31,
+   "name": "AK-47 | Fire Serpent",
+   "price": 13500,
+   "tier": "epic"
+  },
+  {
+   "id": 32,
+   "name": "Glock-18 | Fade",
+   "price": 18000,
+   "tier": "epic"
+  },
+  {
+   "id": 33,
+   "name": "Bayonet | Doppler",
+   "price": 27000,
+   "tier": "legendary"
+  },
+  {
+   "id": 34,
+   "name": "Flip Knife | Fade",
+   "price": 25000,
+   "tier": "legendary"
+  },
+  {
+   "id": 35,
+   "name": "M9 Bayonet | Doppler",
+   "price": 36000,
+   "tier": "legendary"
+  },
+  {
+   "id": 36,
+   "name": "Karambit | Doppler",
+   "price": 45000,
+   "tier": "legendary"
+  },
+  {
+   "id": 37,
+   "name": "Butterfly Knife | Doppler",
+   "price": 60000,
+   "tier": "legendary"
+  },
+  {
+   "id": 38,
+   "name": "Butterfly Knife | Fade",
+   "price": 90000,
+   "tier": "legendary"
+  },
+  {
+   "id": 39,
+   "name": "Karambit | Fade",
+   "price": 135000,
+   "tier": "legendary"
+  },
+  {
+   "id": 40,
+   "name": "AWP | Gungnir",
+   "price": 315000,
+   "tier": "legendary"
+  },
+  {
+   "id": 41,
+   "name": "AWP | Dragon Lore",
+   "price": 720000,
+   "tier": "legendary"
+  }
+ ]
+}
